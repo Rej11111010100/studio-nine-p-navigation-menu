@@ -4,6 +4,6 @@ this navigation menu was created by **Hyperplexed** a YouTube Channel for ***web
 
 *[view live](https://emma11111010100.github.io/studio-nine-p-navigation-menu/)*.
 
---below is the preview image for the nav-menu--
+__below is the preview image for the nav-menu__
 
 *[![nav-menu-preview-image](https://github.com/emma11111010100/studio-nine-p-navigation-menu/blob/main/studio9p-nav.png)](https://emma11111010100.github.io/studio-nine-p-navigation-menu/)*.
