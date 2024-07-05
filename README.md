@@ -2,7 +2,7 @@
 
 this navigation menu was recreated by *[Hyperplexed](https://www.youtube.com/@Hyperplexed)*
 
-*[view live](https://itsremma.github.io/studio-nine-p-navigation-menu/)*.
+*[view live](https://r-e-m-m-a.github.io/studio-nine-p-navigation-menu/)*.
 
 __below is the preview image for the nav-menu__
 
